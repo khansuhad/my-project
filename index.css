@@ -176,3 +176,10 @@ margin-top: 20px;
     height: 250px;
     margin-right:20px ;
 }
+.thank{
+    text-align: center;
+    font-weight: bold;
+    color: chocolate;
+    background-color: rgb(174, 175, 177);
+    border-radius:10px ;
+}
